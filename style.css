@@ -13,7 +13,12 @@ h1, h2 {
     color: chartreuse;
 }
 
+/* Mudando a cor de listas específicas */
+li.done {
+    color: seagreen;
+}
+
 /* Mudando o tamanho do parágrafo dentro da lista não-ordenada */
-ul > p {
+ul p.done {
     font-size: xx-small;
 }
