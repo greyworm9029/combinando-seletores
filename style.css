@@ -9,7 +9,7 @@ div > p {
 }
 
 /* Adicionando cor às listas dentro da lista não-ordenada */
-div > ul > li {
+ul > li {
     color: chartreuse;
 }
 
