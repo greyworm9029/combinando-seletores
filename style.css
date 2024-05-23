@@ -1,0 +1,19 @@
+/* Adicionando cor ao h1 e ao h2 ao mesmo tempo*/
+h1, h2 {
+    color: violet;
+}
+
+/* Adicionando cor ao parágrafo dentro da div */
+div > p {
+    color: gold;
+}
+
+/* Adicionando cor às listas dentro da lista não-ordenada */
+div > ul > li {
+    color: chartreuse;
+}
+
+/* Mudando o tamanho do parágrafo dentro da lista não-ordenada */
+ul > p {
+    font-size: xx-small;
+}
