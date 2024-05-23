@@ -4,12 +4,12 @@ h1, h2 {
 }
 
 /* Adicionando cor ao parágrafo dentro da div */
-div > p {
+.box > p {
     color: gold;
 }
 
 /* Adicionando cor às listas dentro da lista não-ordenada */
-ul > li {
+.box li {
     color: chartreuse;
 }
 
